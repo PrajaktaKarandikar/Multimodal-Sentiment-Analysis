@@ -1,2 +1,2 @@
 # Multimodal-Sentiment-Analysis
-Multimodal Sentiment Analysis
+Speech sentiment recognition is a challenging task, and extensive reliance has been placed on models that use audio feature in building well-performing classifier. In this project, we use both the text data and audio signals to obtain a better understanding of speech data. As emotional dialogue is composed of sound and spoken content, this model concatenates the information from audio and text sequences and then predict the emotional class. This utilizes the information within the data more comprehensively than models that focus on audio features.
